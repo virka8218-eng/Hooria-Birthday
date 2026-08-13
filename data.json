@@ -1,0 +1,13 @@
+{
+  "name": "Hooria",
+  "theme": "pink", 
+  "birthday": "13-08-2026",
+  "music": "/music/happy-birthday.mp3",
+  "photos": [
+    "/images/1.jpg",
+    "/images/2.jpg", 
+    "/images/3.jpg",
+    "/images/4.jpg"
+  ],
+  "message": "Hooria,\n\nHappy Birthday to you 🎂✨\n\nAaj ka din sirf tumhara hai. \nTumhari hansi duniya ki sabse khoobsurat cheez hai.\nAllah tumhe hamesha khush rakhe aur har khushi de.\n\nTum deserve karti ho sabse best 💖"
+}
